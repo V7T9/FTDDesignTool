@@ -16,7 +16,7 @@
    python ftdt.py
    ```
 ### 2）Or直接下载运行ftdt.exe  
-windows用户可以尝试直接下载[releases](https://github.com/V7T9/FarmTogetherDesignTool/releases)中打包好的exe文件  
+windows用户可以尝试直接下载[releases](https://github.com/V7T9/FarmTogetherDesignTool/releases)中打包好的FTDT.rar，解压后双击运行ftdt.exe   
 
 # 如何使用 How to use  
 视频 - [【FarmTogether】告别Excel，用FTDT设计农场布局](https://www.bilibili.com/video/BV1hD4y117JC/)  
